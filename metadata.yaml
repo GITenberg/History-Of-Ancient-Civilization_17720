@@ -1,0 +1,30 @@
+_repo: History-Of-Ancient-Civilization_17720
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seignobos, Charles
+    birthdate: 1854
+    deathdate: 1942
+    gutenberg_agent_id: '7566'
+    url: http://www.gutenberg.org/2009/agents/7566
+description: '[v. 1] History of ancient civilization, tr. and ed. by Arthur Herbert
+  Wilde.--[v. 2] History of mediaeval and of modern civilization to the end of the
+  17th cent., tr. by J. Alton James.--[v. 3] History of contemporary civilization,
+  tr. by James Alton James.'
+gutenberg_issued: '2006-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization -- History'
+- !lcsh 'History, Ancient'
+- !lcc 'CB'
+title: History Of Ancient Civilization
+url: http://www.gutenberg.org/ebooks/17720
